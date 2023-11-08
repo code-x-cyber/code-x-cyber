@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @code-x-cyber
+- 👋 Hi, I’m Samson Haruna
 - 👀 I’m interested in ...Data science/machine learning
 - 🌱 I’m currently learning ...Data science
 - 💞️ I’m looking to collaborate on ...Data analysis project
